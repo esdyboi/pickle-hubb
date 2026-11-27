@@ -1,0 +1,15 @@
+pickle-hubb/
+│
+├── index.html
+├── styles.css
+├── app.js
+│
+└── assets/
+    ├── paddle-ball-set.png
+    ├── pickleball-action.jpg
+    ├── pickleball-ball.png
+    ├── pickleball-court-action.jpg
+    ├── pickleball-court-overhead.jpg
+    ├── pickleball-group.jpg
+    ├── pickleball-paddle.png
+    └── pickleball-players.jpg
